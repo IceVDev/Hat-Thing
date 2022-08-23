@@ -1,4 +1,5 @@
 # Hat-Thing                          
+ONLY WORKS IN R6!!! DO NOT WEAR Layered CLOTHING WHILE USING THIS, IT WILL NOT WORK.
 Commands: /speed [number], /radius [number], /removemesh, /mode [mode]
 Modes: circle, sweeper, solar, idk, wings
 Items you will need for this to work 
