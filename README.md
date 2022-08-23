@@ -1,4 +1,6 @@
-# Hat-Thing                          |
+# Hat-Thing                          
+Commands: /speed [number], /radius [number], /removemesh, /mode [mode]
+Modes: circle, sweeper, solar, idk, wings
 Items you will need for this to work V
 https://www.roblox.com/catalog/4489239608/International-Fedora-United-Kingdom
 https://www.roblox.com/catalog/3398308134/International-Fedora-Canada
